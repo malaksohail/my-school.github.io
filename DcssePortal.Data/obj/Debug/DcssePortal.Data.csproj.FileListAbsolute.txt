@@ -1,0 +1,144 @@
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.AssemblyReference.cache
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdated.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdated1.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain1.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain2.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.adminAddedRelationAddedToUsers.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.AdminAddedToContext.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.relationsBuilt.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datatypeUpdatedForDobStudent.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.emailAddedToAdmin.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentUniqueSet.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.keyAddedToResult.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentLinkedWithResult.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentLinkedWithResultSetup.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.feedbackMigrationFixed.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.test.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.test1.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.coureSecretCodeAdded.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datetimeChanged.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datetimeTypeChangedForDateSheet.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.dateTypeChangedForCourseScheme.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.dateTypeChangedForFeedback.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.resultModelUpdated.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.regNumUnique.resources
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.GenerateResource.cache
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.CoreCompileInputs.cache
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.dll.config
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.pdb
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.pdb
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.dll.config
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.CopyComplete
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.dll.config
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Antlr3.Runtime.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Newtonsoft.Json.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.dll.config
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Antlr3.Runtime.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\bin\Debug\Newtonsoft.Json.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.AssemblyReference.cache
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdated.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdated1.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain1.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain2.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.adminAddedRelationAddedToUsers.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.AdminAddedToContext.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.relationsBuilt.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datatypeUpdatedForDobStudent.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.emailAddedToAdmin.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentUniqueSet.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.keyAddedToResult.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentLinkedWithResult.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentLinkedWithResultSetup.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.feedbackMigrationFixed.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.test.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.test1.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.coureSecretCodeAdded.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datetimeChanged.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datetimeTypeChangedForDateSheet.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.dateTypeChangedForCourseScheme.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.dateTypeChangedForFeedback.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.resultModelUpdated.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.regNumUnique.resources
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.GenerateResource.cache
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.CoreCompileInputs.cache
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.CopyComplete
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.pdb
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.dll.config
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Data.pdb
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Antlr3.Runtime.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Newtonsoft.Json.dll
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.pdb
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\DcssePortal.Model.dll.config
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Antlr3.Runtime.pdb
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.xml
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DcssePortal-master\DcssePortal.Data\bin\Debug\Newtonsoft.Json.xml
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csprojAssemblyReference.cache
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdated.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdated1.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain1.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.ModelClassesUpdatedAgain2.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.adminAddedRelationAddedToUsers.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.AdminAddedToContext.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.relationsBuilt.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datatypeUpdatedForDobStudent.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.emailAddedToAdmin.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentUniqueSet.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.keyAddedToResult.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentLinkedWithResult.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.enrollmentLinkedWithResultSetup.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.feedbackMigrationFixed.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.test.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.test1.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.coureSecretCodeAdded.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datetimeChanged.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.datetimeTypeChangedForDateSheet.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.dateTypeChangedForCourseScheme.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.dateTypeChangedForFeedback.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.resultModelUpdated.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.Migrations.regNumUnique.resources
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.GenerateResource.cache
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.CoreCompileInputs.cache
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.csproj.CopyComplete
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.dll
+D:\DcssePortal-master\DcssePortal.Data\obj\Debug\DcssePortal.Data.pdb

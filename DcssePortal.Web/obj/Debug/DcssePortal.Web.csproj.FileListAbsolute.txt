@@ -1,0 +1,165 @@
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.AssemblyReference.cache
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.CoreCompileInputs.cache
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.dll.config
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.pdb
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Newtonsoft.Json.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Owin.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Helpers.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Mvc.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Optimization.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Razor.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\WebGrease.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.pdb
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.dll.config
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.pdb
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.dll.config
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Helpers.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Mvc.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Optimization.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.Razor.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\bin\Newtonsoft.Json.xml
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.CopyComplete
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.dll
+C:\Users\Riaz\Downloads\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.dll.config
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.SqlServer.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Newtonsoft.Json.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Owin.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Helpers.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Mvc.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Optimization.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Razor.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Razor.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\WebGrease.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.dll.config
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.pdb
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.dll.config
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.SqlServer.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Helpers.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Mvc.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Optimization.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.Razor.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Razor.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\bin\Newtonsoft.Json.xml
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.AssemblyReference.cache
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.CoreCompileInputs.cache
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.CopyComplete
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.dll
+D:\DCSSE portal\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.pdb
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.dll.config
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Web.pdb
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.SqlServer.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Newtonsoft.Json.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\Owin.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Helpers.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Mvc.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Optimization.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Razor.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Deployment.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Razor.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\WebGrease.dll
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.pdb
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Data.dll.config
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.pdb
+D:\DcssePortal-master\DcssePortal.Web\bin\DcssePortal.Model.dll.config
+D:\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\EntityFramework.SqlServer.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Helpers.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Mvc.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Optimization.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.Razor.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Deployment.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\System.Web.WebPages.Razor.xml
+D:\DcssePortal-master\DcssePortal.Web\bin\Newtonsoft.Json.xml
+D:\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csprojAssemblyReference.cache
+D:\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.CoreCompileInputs.cache
+D:\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.csproj.CopyComplete
+D:\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.dll
+D:\DcssePortal-master\DcssePortal.Web\obj\Debug\DcssePortal.Web.pdb
